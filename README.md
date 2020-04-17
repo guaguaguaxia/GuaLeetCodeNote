@@ -1,0 +1,2 @@
+# GuaLeetCodeNote
+my leetcode note
