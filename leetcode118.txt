@@ -1,0 +1,27 @@
+118. 杨辉三角
+给定一个非负整数 numRows，生成杨辉三角的前 numRows 行。
+
+
+class Solution {
+    public List<List<Integer>> generate(int numRows) {
+
+        // First base case; if user requests zero rows, they get zero rows.
+
+
+        // Second base case; first row is always [1].
+
+
+
+
+            // The first row element is always 1.
+
+            // Each triangle element (other than the first and last of each row)
+            // is equal to the sum of the elements above-and-to-the-left and
+            // above-and-to-the-right.
+
+
+            // The last row element is always 1.
+
+
+    }
+}
